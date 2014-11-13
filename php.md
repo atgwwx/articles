@@ -1,5 +1,6 @@
 # PHP
 ## 时间相关
+用法：mktime(hour,minute,second,month,day,year)
 $hSTime1 = mktime(0,0,0,4,20,2014);
 
 $hSTime2 = mktime(0,0,0,5,12,2014);
